@@ -1,6 +1,6 @@
 # Employee Attrition Analysis Dashboard
 
-![Employee Attrition Dashboard](https://github.com/SarkarMita/Employee-Attrition-Analysis/raw/main/Employee_Attrition_Dashboard.png)
+![Employee Attrition Dashboard](https://github.com/SarkarMita/Employee-Attrition-Analysis/blob/main/Employee%20Attrition%20Dashboard.png)
 
 ## **Problem Statement**
 The organization is struggling with a high number of employees leaving the company unexpectedly. This constant turnover is costing the business money, hurting team morale, and making it difficult to maintain steady growth. Currently, leadership doesn't know why people are quitting—whether it's because of pay, age, specific job roles, or low job satisfaction—so they are unable to create a plan to stop it.
